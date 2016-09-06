@@ -16,6 +16,8 @@ class Solution
         if (arr.Length != n)
             return;
 
+        Array.Sort(arr);
+
         Console.WriteLine(CalculateMean(arr));
         Console.WriteLine(CalculateMedian(arr));
         Console.WriteLine(CalculateMode(arr));
@@ -36,31 +38,24 @@ class Solution
     }
     private static decimal CalculateMedian(int[] arr)
     {
+
         int length = arr.Length;
-        if (length == 0)
-            return 0;
 
-        Array.Sort(arr);
+        decimal median = arr[length / 2];
 
-        if (length % 2 == 0)
-            return CalculateMedianForEvenArray(arr, length);
-        else
-            return CalculateMedianForOddArray(arr, length);
-    }
 
-    private static decimal CalculateMedianForOddArray(int[] arr, int length)
-    {
-        int index = Convert.ToInt32(Math.Floor((decimal)length / 2));
-        return Convert.ToDecimal(arr[index]);
-    }
-
-    private static decimal CalculateMedianForEvenArray(int[] arr, int length)
-    {
-        int upperIndex = (length / 2);
-        int lowerIndex = (length / 2) - 1;
-
-        decimal median = (Convert.ToDecimal(arr[lowerIndex]) + Convert.ToDecimal(arr[upperIndex])) / 2;
+        if (NumberOfElementsIsEven(length))
+        {
+            median += arr[(length / 2) - 1];
+            median /= 2;
+        }
         return median;
+
+    }
+
+    private static bool NumberOfElementsIsEven(int length)
+    {
+        return length % 2 == 0;
     }
 
     private static int CalculateMode(int[] arr)
