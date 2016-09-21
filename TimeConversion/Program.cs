@@ -7,7 +7,7 @@ class Solution
 
     static void Main(String[] args)
     {
-        string time = Console.ReadLine();      
+        string time = Console.ReadLine();
         Console.WriteLine(ConvertTimeToMilitary(time));
     }
 
@@ -18,7 +18,7 @@ class Solution
         bool isItAmTime = (lowerCaseString[8] == 'a');
         if (isItAmTime)
             hourFraction = hourFraction == 12 ? 0: hourFraction;
-        else 
+        else
             hourFraction = hourFraction != 12 ? hourFraction + 12 : hourFraction;
         return $"{hourFraction:00}" + time.Substring(2, 6);
     }
