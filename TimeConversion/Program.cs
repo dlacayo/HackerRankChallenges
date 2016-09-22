@@ -20,6 +20,6 @@ class Solution
             hourFraction = hourFraction == 12 ? 0: hourFraction;
         else
             hourFraction = hourFraction != 12 ? hourFraction + 12 : hourFraction;
-        return $"{hourFraction:00}" + time.Substring(2, 6);
+        return $"{hourFraction:00}" + time.Substring(2, 6);        
     }
 }
