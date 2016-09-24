@@ -33,6 +33,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CircularArrayRotation", "Ci
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperReducedString", "SuperReducedString\SuperReducedString.csproj", "{9E8F9BE9-CB7B-4E88-A7E0-2AFF6DE7BC0E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionariesAndMaps", "DictionariesAndMaps\DictionariesAndMaps.csproj", "{CB558911-85D9-48BA-97D4-AB9F56F7D34E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recursion", "Recursion\Recursion.csproj", "{1C26777D-A528-4455-912A-B809F993DD15}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +103,14 @@ Global
 		{9E8F9BE9-CB7B-4E88-A7E0-2AFF6DE7BC0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9E8F9BE9-CB7B-4E88-A7E0-2AFF6DE7BC0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9E8F9BE9-CB7B-4E88-A7E0-2AFF6DE7BC0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB558911-85D9-48BA-97D4-AB9F56F7D34E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB558911-85D9-48BA-97D4-AB9F56F7D34E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB558911-85D9-48BA-97D4-AB9F56F7D34E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB558911-85D9-48BA-97D4-AB9F56F7D34E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C26777D-A528-4455-912A-B809F993DD15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C26777D-A528-4455-912A-B809F993DD15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C26777D-A528-4455-912A-B809F993DD15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C26777D-A528-4455-912A-B809F993DD15}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
