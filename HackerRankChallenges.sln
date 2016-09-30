@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryNumbers", "BinaryNumb
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2dArrays", "2dArrays\2dArrays.csproj", "{6FFDE7F1-4A98-4CAF-B40A-B5E8C3FFE7F6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kangaroo", "Kangaroo\Kangaroo.csproj", "{9776B5D2-96A4-4509-AF42-79525B411ACD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{6FFDE7F1-4A98-4CAF-B40A-B5E8C3FFE7F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6FFDE7F1-4A98-4CAF-B40A-B5E8C3FFE7F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6FFDE7F1-4A98-4CAF-B40A-B5E8C3FFE7F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9776B5D2-96A4-4509-AF42-79525B411ACD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9776B5D2-96A4-4509-AF42-79525B411ACD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9776B5D2-96A4-4509-AF42-79525B411ACD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9776B5D2-96A4-4509-AF42-79525B411ACD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
