@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2dArrays", "2dArrays\2dArra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kangaroo", "Kangaroo\Kangaroo.csproj", "{9776B5D2-96A4-4509-AF42-79525B411ACD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scope", "Scope\Scope.csproj", "{C9D923E7-3024-44A6-868B-4652F8FBAD1F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,10 @@ Global
 		{9776B5D2-96A4-4509-AF42-79525B411ACD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9776B5D2-96A4-4509-AF42-79525B411ACD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9776B5D2-96A4-4509-AF42-79525B411ACD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9D923E7-3024-44A6-868B-4652F8FBAD1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9D923E7-3024-44A6-868B-4652F8FBAD1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9D923E7-3024-44A6-868B-4652F8FBAD1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9D923E7-3024-44A6-868B-4652F8FBAD1F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
