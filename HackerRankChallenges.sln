@@ -57,6 +57,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\In
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppleAndOrange", "AppleAndOrange\AppleAndOrange.csproj", "{B15E8785-4203-45CB-A52E-08FA0B6A82F1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumPerimeterTriangle", "MaximumPerimeterTriangle\MaximumPerimeterTriangle.csproj", "{72223021-58C8-4876-9063-82E06007156A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HappyLadybugs", "HappyLadybugs\HappyLadybugs.csproj", "{06E16A98-0467-4A80-9A6F-8434DF68F5C0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -171,6 +175,14 @@ Global
 		{B15E8785-4203-45CB-A52E-08FA0B6A82F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B15E8785-4203-45CB-A52E-08FA0B6A82F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B15E8785-4203-45CB-A52E-08FA0B6A82F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72223021-58C8-4876-9063-82E06007156A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72223021-58C8-4876-9063-82E06007156A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72223021-58C8-4876-9063-82E06007156A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72223021-58C8-4876-9063-82E06007156A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06E16A98-0467-4A80-9A6F-8434DF68F5C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06E16A98-0467-4A80-9A6F-8434DF68F5C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06E16A98-0467-4A80-9A6F-8434DF68F5C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06E16A98-0467-4A80-9A6F-8434DF68F5C0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
