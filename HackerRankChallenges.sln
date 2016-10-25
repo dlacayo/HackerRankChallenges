@@ -67,6 +67,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sorting", "Sorting\Sorting.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "Generics\Generics.csproj", "{A538A0A3-D612-4EB3-B9C2-5C864AABA226}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearchTrees", "BinarySearchTrees\BinarySearchTrees.csproj", "{5DBFDD61-68C0-4A18-8433-36626E30D32A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BSTLevelOrderTraversal", "BSTLevelOrderTraversal\BSTLevelOrderTraversal.csproj", "{6780E366-F02C-47D7-977D-9B0769A1149F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -201,6 +205,14 @@ Global
 		{A538A0A3-D612-4EB3-B9C2-5C864AABA226}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A538A0A3-D612-4EB3-B9C2-5C864AABA226}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A538A0A3-D612-4EB3-B9C2-5C864AABA226}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DBFDD61-68C0-4A18-8433-36626E30D32A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DBFDD61-68C0-4A18-8433-36626E30D32A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DBFDD61-68C0-4A18-8433-36626E30D32A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DBFDD61-68C0-4A18-8433-36626E30D32A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6780E366-F02C-47D7-977D-9B0769A1149F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6780E366-F02C-47D7-977D-9B0769A1149F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6780E366-F02C-47D7-977D-9B0769A1149F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6780E366-F02C-47D7-977D-9B0769A1149F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
