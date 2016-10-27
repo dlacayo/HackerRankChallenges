@@ -73,6 +73,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BSTLevelOrderTraversal", "B
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoreLinkedLists", "MoreLinkedLists\MoreLinkedLists.csproj", "{BB7D778D-1C95-4D90-B499-1C19AE36A38A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RunningTimeAndComplexity", "RunningTimeAndComplexity\RunningTimeAndComplexity.csproj", "{42562698-9A87-46CB-8012-CECA1D7B2364}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -219,6 +221,10 @@ Global
 		{BB7D778D-1C95-4D90-B499-1C19AE36A38A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BB7D778D-1C95-4D90-B499-1C19AE36A38A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BB7D778D-1C95-4D90-B499-1C19AE36A38A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42562698-9A87-46CB-8012-CECA1D7B2364}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42562698-9A87-46CB-8012-CECA1D7B2364}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42562698-9A87-46CB-8012-CECA1D7B2364}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42562698-9A87-46CB-8012-CECA1D7B2364}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
