@@ -77,6 +77,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RunningTimeAndComplexity", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NestedLogic", "NestedLogic\NestedLogic.csproj", "{40F1A702-41F3-4D84-B849-ABD64A55E756}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testing", "Testing\Testing.csproj", "{44F24281-0BED-4073-92A0-CEB45B504C79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegExPatternsAndIntroToDatabases", "RegExPatternsAndIntroToDatabases\RegExPatternsAndIntroToDatabases.csproj", "{BA2BF267-DD22-44AB-BC47-56DBA541C07B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitwiseAND", "BitwiseAND\BitwiseAND.csproj", "{2B579008-C51F-4C70-99BE-EB885195F180}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -231,6 +237,18 @@ Global
 		{40F1A702-41F3-4D84-B849-ABD64A55E756}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{40F1A702-41F3-4D84-B849-ABD64A55E756}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{40F1A702-41F3-4D84-B849-ABD64A55E756}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44F24281-0BED-4073-92A0-CEB45B504C79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44F24281-0BED-4073-92A0-CEB45B504C79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44F24281-0BED-4073-92A0-CEB45B504C79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44F24281-0BED-4073-92A0-CEB45B504C79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA2BF267-DD22-44AB-BC47-56DBA541C07B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA2BF267-DD22-44AB-BC47-56DBA541C07B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA2BF267-DD22-44AB-BC47-56DBA541C07B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA2BF267-DD22-44AB-BC47-56DBA541C07B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B579008-C51F-4C70-99BE-EB885195F180}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B579008-C51F-4C70-99BE-EB885195F180}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B579008-C51F-4C70-99BE-EB885195F180}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B579008-C51F-4C70-99BE-EB885195F180}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
