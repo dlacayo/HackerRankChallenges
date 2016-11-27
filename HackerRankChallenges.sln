@@ -97,6 +97,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecurityBijectiveFunctions"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecurityFunctionInverses", "SecurityFunctionInverses\SecurityFunctionInverses.csproj", "{87C2B5C8-7990-4645-ABC0-615F9392DBDD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BonAppetit", "BonAppetit\BonAppetit.csproj", "{C3A8CFB3-9B3F-4294-BE56-4578620E579A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SockMerchant", "SockMerchant\SockMerchant.csproj", "{B738217A-EFAD-47B0-994B-28FBEDC1E3FB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -291,6 +295,14 @@ Global
 		{87C2B5C8-7990-4645-ABC0-615F9392DBDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{87C2B5C8-7990-4645-ABC0-615F9392DBDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{87C2B5C8-7990-4645-ABC0-615F9392DBDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3A8CFB3-9B3F-4294-BE56-4578620E579A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3A8CFB3-9B3F-4294-BE56-4578620E579A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3A8CFB3-9B3F-4294-BE56-4578620E579A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3A8CFB3-9B3F-4294-BE56-4578620E579A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B738217A-EFAD-47B0-994B-28FBEDC1E3FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B738217A-EFAD-47B0-994B-28FBEDC1E3FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B738217A-EFAD-47B0-994B-28FBEDC1E3FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B738217A-EFAD-47B0-994B-28FBEDC1E3FB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
