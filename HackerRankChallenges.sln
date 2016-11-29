@@ -103,6 +103,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SockMerchant", "SockMerchan
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArmyGame", "ArmyGame\ArmyGame.csproj", "{D472C7E6-E3E0-4867-BACD-90FB5361EB01}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BestDivisor", "BestDivisor\BestDivisor.csproj", "{9B87D1C2-48FB-415E-886F-CEEB46BD4B63}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -309,6 +311,10 @@ Global
 		{D472C7E6-E3E0-4867-BACD-90FB5361EB01}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D472C7E6-E3E0-4867-BACD-90FB5361EB01}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D472C7E6-E3E0-4867-BACD-90FB5361EB01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B87D1C2-48FB-415E-886F-CEEB46BD4B63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B87D1C2-48FB-415E-886F-CEEB46BD4B63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B87D1C2-48FB-415E-886F-CEEB46BD4B63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B87D1C2-48FB-415E-886F-CEEB46BD4B63}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
