@@ -105,6 +105,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArmyGame", "ArmyGame\ArmyGa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BestDivisor", "BestDivisor\BestDivisor.csproj", "{9B87D1C2-48FB-415E-886F-CEEB46BD4B63}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Twins", "Twins\Twins.csproj", "{91FE4AE4-014B-4B95-A7C6-AAD4FBDC3358}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -315,6 +317,10 @@ Global
 		{9B87D1C2-48FB-415E-886F-CEEB46BD4B63}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9B87D1C2-48FB-415E-886F-CEEB46BD4B63}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9B87D1C2-48FB-415E-886F-CEEB46BD4B63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91FE4AE4-014B-4B95-A7C6-AAD4FBDC3358}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91FE4AE4-014B-4B95-A7C6-AAD4FBDC3358}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91FE4AE4-014B-4B95-A7C6-AAD4FBDC3358}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91FE4AE4-014B-4B95-A7C6-AAD4FBDC3358}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
