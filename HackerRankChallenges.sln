@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.25123.0
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolveMeFirst", "SolveMeFirst\SolveMeFirst.csproj", "{D564CF5A-4870-4970-953B-731A59A5CC02}"
 EndProject
@@ -118,6 +118,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumDistances", "MinimumDistances\MinimumDistances.csproj", "{4EF57030-EB98-4CEA-A59D-4428A925A215}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EqualizeTheArray", "EqualizeTheArray\EqualizeTheArray.csproj", "{CECE5BA6-1569-47B0-8F8D-F43D0F14D170}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViralAdvertising", "ViralAdvertising\ViralAdvertising.csproj", "{1D6F697B-ABB6-48F4-AFB6-EC87DDB520EB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -357,6 +359,10 @@ Global
 		{CECE5BA6-1569-47B0-8F8D-F43D0F14D170}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CECE5BA6-1569-47B0-8F8D-F43D0F14D170}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CECE5BA6-1569-47B0-8F8D-F43D0F14D170}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D6F697B-ABB6-48F4-AFB6-EC87DDB520EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D6F697B-ABB6-48F4-AFB6-EC87DDB520EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D6F697B-ABB6-48F4-AFB6-EC87DDB520EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D6F697B-ABB6-48F4-AFB6-EC87DDB520EB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
